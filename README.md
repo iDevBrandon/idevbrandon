@@ -1,8 +1,8 @@
 ### Software developer ⚡
-- FE Web Developer, interested in mobility industry(ride hailing and infotatment)
+- FE Web Developer, interested in location based service apps like ride hailing and infotainment in mobility industry
 
 ### [Investor](https://wallmine.com/portfolios/318764) 💡
-
+- Love to share investment ideas with the community 
 
 <div align=center>
 
