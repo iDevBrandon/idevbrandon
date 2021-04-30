@@ -1,7 +1,7 @@
 ### Software developer ⚡
 - FE Web Developer, interested in location based service apps like ride hailing and infotainment in mobility industry
 
-[![idevbrandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=idevbrandon)](https://github.com/idevbrandon/github-readme-stats)
+[![idevbrandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=idevbrandon)](https://github.com/iDevBrandon/idevbrandon/blob/main/README.md)
 
 <div align=center>
 
