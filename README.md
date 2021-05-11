@@ -1,5 +1,6 @@
 ### Software developer ⚡
-- FE Web Developer, interested in location based service apps like ride hailing and infotainment in mobility industry
+### Hi, I'm Brandon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 
 [![idevbrandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=idevbrandon)](https://github.com/iDevBrandon/idevbrandon/blob/main/README.md)
 
