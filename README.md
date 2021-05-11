@@ -4,6 +4,15 @@
 [![idevbrandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=idevbrandon)](https://github.com/iDevBrandon/idevbrandon/blob/main/README.md)
 
 <div align=center>
+  
+  
+#### Languages and tools I work with:
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+
 
 [![Portfolio Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://idevbrandon.github.io/)](https://idevbrandon.github.io/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/idevbrandon/)](https://www.linkedin.com/in/idevbrandon/) 
@@ -12,13 +21,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/idevbrandon)](https://www.instagram.com/idevbrandon) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:idevbrandon@gmail.com)](mailto:idevbrandon@gmail.com)
 </div>
-
-#### Languages and tools I work with:
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
 <!--
 **iDevBrandon/idevbrandon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
