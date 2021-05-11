@@ -2,10 +2,9 @@
 
 
 [![idevbrandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=idevbrandon)](https://github.com/iDevBrandon/idevbrandon/blob/main/README.md)
-- 📍 &nbsp;	Current location: Miami, FL
 - ⌨️ &nbsp;	I would like to create more web apps
 - 💬 &nbsp;	Love to share business ideas & investment
-- 💌 &nbsp;	How to reach me: [@acodingnomad](https://www.instagram.com/acodingnomad/)
+- 💌 &nbsp;	How to reach me: [@idevbrandon](https://www.instagram.com/idevbrandon/)
 <div align=center>
   
   
