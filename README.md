@@ -15,6 +15,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
+  [![Medium Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/in/idevbrandon/)](https://www.linkedin.com/in/idevbrandon/) 
 
 [![Portfolio Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://idevbrandon.github.io/)](https://idevbrandon.github.io/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/idevbrandon/)](https://www.linkedin.com/in/idevbrandon/) 
