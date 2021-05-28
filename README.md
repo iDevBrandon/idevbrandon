@@ -1,7 +1,7 @@
 ### Hi, I'm Brandon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt)(https://github.com/iDevBrandon/idevbrandon/blob/main/README.md)
+![idevbrandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=idevbrandon&show_icons=true&theme=cobalt)
 - ⌨️ &nbsp;	I would like to create more web apps
 - 💬 &nbsp;	Love to share business ideas & investment
 - 💌 &nbsp;	How to reach me: [@idevbrandon](https://www.instagram.com/idevbrandon/)
