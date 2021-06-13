@@ -2,8 +2,9 @@
 
 
 ![idevbrandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=idevbrandon&show_icons=true&theme=algolia)
-- ⌨️ &nbsp;	I would like to create more web apps
-- 💬 &nbsp;	Love to share business ideas & investment
+- 💬 &nbsp;	I would like to create more web apps
+- 💡 &nbsp;	Love to code business ideas into a service
+- 📈 &nbsp;	Run a portfolio myself & wonder how others get rich
 - 🚗 &nbsp;	Interested in future mobility business like ride hailing, infotainment businesses  
 - 💌 &nbsp;	How to reach me: [@idevbrandon](https://www.instagram.com/idevbrandon/)
 <div align=center>
