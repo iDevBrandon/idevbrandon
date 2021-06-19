@@ -1,7 +1,4 @@
 ### Hi, I'm Brandon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Software Developer(JS/TS) 👨‍💻                                           
-King of Dividend 🤑                                
-World Long Drive champion 🏌️‍♂
 
 ![idevbrandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=idevbrandon&show_icons=true&theme=algolia)
 - 💡 &nbsp; Love to code business ideas into a service & contents on YT
