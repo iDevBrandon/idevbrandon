@@ -2,7 +2,7 @@
 
 ![idevbrandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=idevbrandon&show_icons=true&theme=algolia)
 - 💡 &nbsp; Love to code business ideas into a service & contents on YT
-- 📈 &nbsp;	Run a portfolio myself & wonder how others get rich
+- 📈 &nbsp;	Run a stock portfolio myself & wonder how others get rich
 - 🗺️ ️&nbsp;	Interested in location-based service like future mobility
 - 💌 &nbsp;	How to reach me: [@idevbrandon](https://www.instagram.com/idevbrandon/)
 <div align=center>
