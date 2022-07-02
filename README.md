@@ -8,6 +8,9 @@ I built and maintain OXINION. I'm a Frontend developer who is interested in inve
 - 🗺️ ️&nbsp;	Interested in location-based service like future mobility
 - 💌 &nbsp;	How to reach me: [@idevbrandon](https://www.instagram.com/idevbrandon/)
 <div align=center>
+
+### 📋 LinkedIn
+[Brandon Ha](https://www.linkedin.com/in/idevbrandon/)
   
   
 #### Languages and tools I work with:
