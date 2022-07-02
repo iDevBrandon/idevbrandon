@@ -10,8 +10,8 @@ I built and maintain OXINION. I'm a Frontend developer who is interested in inve
 <div align=center>
 
 ### 📋 LinkedIn
-
-[Brandon Ha](https://www.linkedin.com/in/idevbrandon/)
+---
+[LinkedIn](https://www.linkedin.com/in/idevbrandon/)
 [CV](https://docs.google.com/document/d/1GNCDRCtc0JH-2XFULnnhc8lP08fyXwX7ocDpWrj_e-I/edit#heading=h.3yjjwz9jari9)
   
   
