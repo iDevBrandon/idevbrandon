@@ -1,4 +1,4 @@
-### Hi, I'm Brandon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I'm Brandon <img height="20" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I built and maintain OXINION. I'm a Frontend developer who is interested in investment and building interesting apps.
 
 
