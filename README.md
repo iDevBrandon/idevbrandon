@@ -12,7 +12,6 @@ I built and maintain [OXINION](https://www.oxinion.com/). I'm a Frontend develop
 ### 📋 LinkedIn
 ---
 [LinkedIn](https://www.linkedin.com/in/idevbrandon/) |
-[CV](https://docs.google.com/document/d/1GNCDRCtc0JH-2XFULnnhc8lP08fyXwX7ocDpWrj_e-I/edit?usp=sharing)
   
   
 #### Languages and tools I work with:
