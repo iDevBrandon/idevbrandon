@@ -9,7 +9,7 @@ I built and maintain [OXINION](https://www.oxinion.com/). I'm a Frontend develop
 - 💌 &nbsp;	How to reach me: [@idevbrandon](https://www.instagram.com/idevbrandon/)
 <div align=center>
 
-### 📋 [CV](https://docs.google.com/document/d/1wezKR_QYPstlDC9oBpjY7bE3_dCS77wacikfRHqLhXo/edit?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/idevbrandon/)
+### 📋 [CV]()| [LinkedIn](https://www.linkedin.com/in/idevbrandon/)
 ---
 
   
